@@ -1,0 +1,14 @@
+*.retry
+*.log
+*.swp
+.cache
+.pytest_cache
+.terraform
+*.backup
+*.bak
+.vagrant
+*.idea
+*.iml
+.bundle
+.vscode
+.DS_Store
